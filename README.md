@@ -7,6 +7,6 @@
 - Diminui a probabilidade de impactar, de maneira brusca, o processo de negócio caso dê algum erro na nova funcionalidade.
 
 ### Maneiras de usar
-- <a href='https://app.flagsmith.com/'>Flagsmith</a>
+- <a href='https://app.flagsmith.com/'>Flagsmith (utilizado neste exemplo)</a>
 - <a href='https://docs.microsoft.com/en-us/azure/azure-app-configuration/manage-feature-flags'>Azure App Configuration</a>
-- <a href='https://docs.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core'>Local</a>
+- <a href='https://docs.microsoft.com/en-us/azure/azure-app-configuration/use-feature-flags-dotnet-core'>Local (utilizado neste exemplo)</a>
