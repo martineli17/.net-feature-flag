@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Local", "API\Local.csproj", "{F4DBB76E-EB3C-4D68-832D-5F3202209312}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_Flagsmith", "FeatureFlag\_Flagsmith.csproj", "{513DC5A2-5F34-4A62-B896-D4E86211B0CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4DBB76E-EB3C-4D68-832D-5F3202209312}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4DBB76E-EB3C-4D68-832D-5F3202209312}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4DBB76E-EB3C-4D68-832D-5F3202209312}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4DBB76E-EB3C-4D68-832D-5F3202209312}.Release|Any CPU.Build.0 = Release|Any CPU
+		{513DC5A2-5F34-4A62-B896-D4E86211B0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{513DC5A2-5F34-4A62-B896-D4E86211B0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{513DC5A2-5F34-4A62-B896-D4E86211B0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{513DC5A2-5F34-4A62-B896-D4E86211B0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D00D0C98-5A60-4E39-A51B-7EC7BA85BDB6}
+	EndGlobalSection
+EndGlobal
